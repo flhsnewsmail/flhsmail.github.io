@@ -37,7 +37,7 @@
       <div class="row py-5" style="">
         <div class="mx-auto text-center col-md-6 h-100">
           <h3 class="display-3">&nbsp;THE <a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light"> FLHS NEWS</a><br>MAILING LIST</h3>
-          <p class="lead text-body h-100 w-100"><a style="background-color: rgb(200,200,200)" class="text-body">WHY JOIN THE MAILING LIST?</a><br>STAY CONNECTED WITH FLHS THROUGH NEWS DELIVERED STRAIGHT TO YOUR INBOX.&nbsp;<a style="background-color: rgb(200,200,200)" class="text-body"><br><br>HOW DOES IT WORK?</a><br>ENTER YOUR NAME AND YOUR EMAIL. EVERYTIME A NEW ARTICLE IS POSTED, WE'LL SEND YOU A NOTIFICATION.&nbsp;<br>ITS THAT EASY :D</p><a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light">
+          <p class="lead text-body h-100 w-100"><a style="background-color: rgb(200,200,200)" class="text-body">WHY JOIN THE MAILING LIST?</a><br>STAY CONNECTED WITH FLHS THROUGH NEWS DELIVERED STRAIGHT TO YOUR INBOX.&nbsp;<a style="background-color: rgb(200,200,200)" class="text-body"><br><br>HOW DOES IT WORK?</a><br>ENTER YOUR NAME AND YOUR EMAIL. EVERYTIME A NEW ARTICLE IS POSTED, WE'LL SEND YOU A NOTIFICATION.&nbsp;<br></p><a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light">
           </a>
         </div><a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light">
         </a>

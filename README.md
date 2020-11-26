@@ -16,7 +16,7 @@
 </head>
 
 <body class="">
-  <nav class="navbar navbar-expand-md navbar-dark bg-danger" style="">
+  <nav class="navbar navbar-expand-md navbar-dark bg-danger h-25" style="">
     <div class="container">
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar2SupportedContent" aria-controls="navbar2SupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span> </button>
@@ -36,8 +36,8 @@
     <div class="container">
       <div class="row py-5" style="">
         <div class="mx-auto text-center col-md-6 h-100">
-          <h3 class="display-3">&nbsp;THE <a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light"> FLHS NEWS</a><br>MAILING LIST</h3>
-          <p class="lead text-body h-100 w-100"><a style="background-color: rgb(200,200,200)" class="text-body">WHY JOIN THE MAILING LIST?</a><br>STAY CONNECTED WITH FLHS THROUGH NEWS DELIVERED STRAIGHT TO YOUR INBOX.&nbsp;<a style="background-color: rgb(200,200,200)" class="text-body"><br><br>HOW DOES IT WORK?</a><br>ENTER YOUR NAME AND YOUR EMAIL. EVERYTIME A NEW ARTICLE IS POSTED, WE'LL SEND YOU A NOTIFICATION.&nbsp;<br></p><a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light">
+          <h3 class="display-4" >&nbsp;<br>THE <a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light"> FLHS NEWS</a><br>MAILING LIST</h3>
+          <p class="lead text-body h-100 w-100"><a style="background-color: rgb(200,200,200)" class="text-body">WHY JOIN THE MAILING LIST?</a><br>STAY CONNECTED WITH FLHS THROUGH NEWS DELIVERED STRAIGHT TO YOUR INBOX.&nbsp;<a style="background-color: rgb(200,200,200)" class="text-body"><br><br>HOW DOES IT WORK?</a><br>ENTER YOUR NAME AND YOUR EMAIL. EVERYTIME A NEW ARTICLE IS POSTED, WE'LL SEND YOU A NOTIFICATION.&nbsp;<br><br></p><a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light">
           </a>
         </div><a style="background-color: rgb(0,0,0)" href="https://flhsnews.com/" class="text-light">
         </a>
@@ -50,7 +50,7 @@
       <div class="container">
         <div class="row bg-light">
           <div class="mx-auto p-4 col-lg-7">
-            <h3 class="display-3 text-dark">NEWS LETTER SUBSCRIPTION</h3>
+            <h3 class="text-dark display-4">NEWS LETTER SUBSCRIPTION</h3>
             <form name="submit-to-google-sheet" id="myForm">
               <input name="name" type="text" placeholder="Name" id="name" required="">
               <input name="email" type="email" placeholder="Email" id="email" required="">
@@ -148,9 +148,7 @@
   <div class="bg-dark py-3">
     <div class="container"></div>
   </div>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous" style=""></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous" style=""></script>
+
 </body>
 
 </html>
